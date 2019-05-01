@@ -1,0 +1,8 @@
+
+#nameVar = 10;
+var_dump(#nameVar);
+
+$intValue = (int) $floatValue;
+echo var_dump($invtValue);
+
+init_set('display_errors',1);
